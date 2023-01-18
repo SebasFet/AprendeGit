@@ -2,5 +2,7 @@ body {
   background-color: red;
   text-align: center;
   text-rendering: auto;
+  color: aqua;
+  height: 100px;
+  width: 100px;
 }
- 
